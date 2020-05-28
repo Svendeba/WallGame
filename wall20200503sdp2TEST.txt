@@ -1,0 +1,20 @@
+dog
+cat
+emu
+cow
+1
+2
+3
+4
+a
+b
+c
+d
+red
+blue
+yellow
+green
+animals
+numbers in sequence order starting at 1
+letters
+colours 
