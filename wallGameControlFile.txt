@@ -1,0 +1,2 @@
+C:/Users/svend/AppData/Local/Programs/Python/Python38-32/wall20200503sdp1TEST.txt
+C:/Users/svend/AppData/Local/Programs/Python/Python38-32/wall20200503sdp2TEST.txt
